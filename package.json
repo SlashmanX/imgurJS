@@ -1,0 +1,17 @@
+{
+	"name": "imgur-js",
+	"version": "0.0.1",
+	"description": "Simple Imgur API for Node.js.",
+	"main": "imgur.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SlashmanX/imgurJS.git"
+	},
+
+	"dependencies": {
+		"async": "0.9.0",
+		"q": "1.0.1",
+		"superagent": "0.18.2",
+		"underscore": "1.7.0"
+	}
+}

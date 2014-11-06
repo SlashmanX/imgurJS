@@ -1,4 +1,4 @@
 imgurJS
-=======
+===========
 
-Node.js API for Imgur
+Node.js API for imgur
